@@ -4,4 +4,4 @@ For images and text under images in line as links:  display: flex;
                                                     justify-content: center;
                                                     flex:wrap
 
-Sourcing styles:  <link rel="stylesheet" src="styles.css">
+Sourcing styles:  <link rel="stylesheet" href="styles.css">
