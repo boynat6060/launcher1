@@ -40,6 +40,12 @@ a {
     border-radius: 20px;
 }
 
+.linkContainer {
+    display: flex;
+    justify-content: center;
+    flex: wrap;
+}
+
 img {
     height: 20vh;
     width: 20vh;
