@@ -1,0 +1,48 @@
+body {
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+.conatiner {
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 80vh;
+    width: 90vh;
+}
+
+.contentConatiner {
+    background-color: rgb(107, 107, 220);
+    text-align: center;
+    border-radius: 20px;
+}
+
+img {
+    height: 20vh;
+    width: 20vh;
+    border-radius: 20px;
+    margin: 15px;
+}
